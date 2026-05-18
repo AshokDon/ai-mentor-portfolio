@@ -7,7 +7,8 @@
 * **Gemini** → Used for deterministic math problems and structured reasoning where answers are unambiguous.
 * **Perplexity** → Used for source-grounded summaries and factual claims that require high verification.
 
-<img width="1440" height="900" alt="Screenshot 2026-05-16 at 09 15 25" src="https://github.com/user-attachments/assets/b3ba2e34-0b22-4def-bdf6-54a4262eee13" />
+<img width="507" height="167" alt="Day1_task" src="https://github.com/user-attachments/assets/eafa4584-f3b1-4125-8ce5-149c91a638ac" />
+
 
 
 ---
