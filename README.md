@@ -16,13 +16,13 @@
 ### Google API Key
 
 ```env
-GOOGLE_API_KEY=YOUR_GOOGLE_API_KEY
+AIzaSyB81QC04KqxCpX_EAMJlCXxK93YfNqWbdo
 ```
 
 ### Groq API Key
 
 ```env
-GROQ_API_KEY=YOUR_GROQ_API_KEY
+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
 ```
 
 ---
