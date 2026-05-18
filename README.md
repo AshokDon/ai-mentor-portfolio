@@ -27,9 +27,9 @@
 
 ---
 
-## Notes
+## Day 1 — Setup complete
 
-* Keep API keys inside environment variables.
-* Never upload secrets directly to GitHub.
-* Use `.env` files for local development.
-* Rotate keys immediately if they are exposed publicly.
+- ✅ Google AI Studio API key provisioned
+- ✅ Groq API key provisioned
+- ✅ Hello-Gemini call working — see [Day1_Setup.ipynb](Day1_Setup.ipynb)
+- 4-tool comparison matrix from Lab 1A: see screenshot below
