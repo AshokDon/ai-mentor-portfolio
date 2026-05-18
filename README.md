@@ -31,7 +31,7 @@
 
 ---
 
-<img width="1298" height="328" alt="gemini_first_call" src="https://github.com/user-attachments/assets/2c2daf8d-0e82-48a8-acd1-0c8c7998eefb" />
+
 
 ## Day 1 — Setup complete
 
@@ -39,3 +39,5 @@
 - ✅ Groq API key provisioned
 - ✅ Hello-Gemini call working — see [Day1_Setup.ipynb](Day1_Setup.ipynb)
 - 4-tool comparison matrix from Lab 1A: see screenshot below
+
+<img width="1298" height="328" alt="gemini_first_call" src="https://github.com/user-attachments/assets/2c2daf8d-0e82-48a8-acd1-0c8c7998eefb" />
